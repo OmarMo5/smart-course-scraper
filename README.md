@@ -62,7 +62,7 @@ php artisan serve
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
 ```
 
 الفرونت إند يعمل على: `http://localhost:3000`
