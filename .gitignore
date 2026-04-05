@@ -1,0 +1,23 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# Backend (Laravel / PHP)
+educational-youTube/vendor/
+educational-youTube/.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.env
